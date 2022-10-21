@@ -1,0 +1,46 @@
+Altium Designer Pick and Place Locations
+Z:\VMwareSharedFolders\Project Outputs for BoostConverter\Pick Place\Pick Place for BoostconverterLast.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02.01.26
+Time:       07:25
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment             Layer    Footprint        Center-X(mil) Center-Y(mil) Rotation Description                                                     
+U3         ANICMCP4921EMCND00  TopLayer MCP4921T-E/SN    781.102       -915.118      0        "IC DAC 12BIT V-OUT 8DFN"                                       
+L1         ANIND10UH001A40009  TopLayer SRU5028          517.047       -1310.551     180      "10uH, 1.40A, -40C +125C, SRU5028-100Y"                         
+U4         ANICMCP3551ESNND00  TopLayer MCP3551-E/SN     283.465       -905.512      0        "IC ADC 22BIT SIGMA-DELTA 8SOIC"                                
+U2         ANICMAX6106EURTTRN  TopLayer MAX6106EUR+T     355.020       -715.551      180      "IC VREF SERIES 0.4% SOT23-3"                                   
+U1         ANICMIC2606YMLTR00  TopLayer MIC2606YML-TR    517.499       -1740.628     90       "IC REG BOOST ADJ 500MA 8MLF"                                   
+R14        ANRESE240000000000  TopLayer 0402-N           532.480       -2026.063     360      "0R, 0402, Thick Film, 1/16W, %1"                               
+R13        ANRESE240000000000  TopLayer 0402-N           513.779       -2084.646     90       "0R, 0402, Thick Film, 1/16W, %1"                               
+R12        ANRESE240000000000  TopLayer 0402-N           299.213       -1896.654     180      "0R, 0402, Thick Film, 1/16W, %1"                               
+R11        ANRESE240000000000  TopLayer 0402-N           336.614       -2159.449     180      "0R, 0402, Thick Film, 1/16W, %1"                               
+R10        ANRES1K0006033BC00  TopLayer 0603-N           577.047       -2166.063     180      "RES SMD 1K OHM 1% 1/3W 0603"                                   
+R9         ANRESE240000000000  TopLayer 0402-N           785.433       -1371.063     270      "0R, 0402, Thick Film, 1/16W, %1"                               
+R8         ANRESE240147010000  TopLayer 0603-N           245.079       -714.567      270      "E24, 470R, 0603, %1"                                           
+R7         ANRES10K006031T700  TopLayer 0603-N           699.803       -748.032      0        "10K 1/10W 5% 0603"                                             
+R6         ANRESE240215030000  TopLayer 0805-N           161.417       -713.583      90       "E24, 15K, 0805, %1"                                            
+R5         ANRES10K006031T700  TopLayer 0603-N           356.299       -1783.465     180      "10K 1/10W 5% 0603"                                             
+R4         ANRES10K006031T700  TopLayer 0603-N           541.339       -838.583      0        "10K 1/10W 5% 0603"                                             
+R3         ANRES1K0006033BC00  TopLayer 0603-N           632.992       -1557.008     270      "RES SMD 1K OHM 1% 1/3W 0603"                                   
+R2         ANRES1K0006033BC00  TopLayer 0603-N           527.047       -1555.433     270      "RES SMD 1K OHM 1% 1/3W 0603"                                   
+R1         ANRES10K006031T700  TopLayer 0603-N           418.102       -1555.433     90       "10K 1/10W 5% 0603"                                             
+J4         ANCON2000824000000  TopLayer 8POS             904.528       -1768.110     270      "8 POS HEADER"                                                  
+J3         ANCON2000824000000  TopLayer 8POS             87.441        -1766.063     270      "8 POS HEADER"                                                  
+J2         ANCON02202P1757242  TopLayer 796911-2         749.409       -198.819      180      "TERM BLK 2P SIDE ENT 5.08MM PCB"                               
+J1         ANCON02202P1757242  TopLayer 796911-2         330.118       -199.803      360      "TERM BLK 2P SIDE ENT 5.08MM PCB"                               
+D1         ANLEDQTLP601C4TR00  TopLayer QTLP601C4TR-0603 737.047       -2166.063     0        "Green 570nm LED Indication - Discrete 2.1V 0603 (1608 Metric)" 
+C9         ANCAP0UF1006030412  TopLayer C0603-N          558.071       -1859.252     90       "0.10µF ±5% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"       
+C8         ANCAP110040340E0000 TopLayer C0603-N          787.047       -1271.969     180      "CAP CER 1UF 10V X5R 0603"                                      
+C7         ANCAP0UF1006030412  TopLayer C0603-N          515.748       -678.150      270      "0.10µF ±5% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"       
+C6         ANCAP0UF1006030412  TopLayer C0603-N          514.764       -758.032      270      "0.10µF ±5% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"       
+C5         ANCAP0UF1006030412  TopLayer C0603-N          887.047       -726.063      0        "0.10µF ±5% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"       
+C4         ANCAP110040340E0000 TopLayer C0603-N          388.779       -592.520      180      "CAP CER 1UF 10V X5R 0603"                                      
+C3         ANCAP110040340E0000 TopLayer C0603-N          321.850       -593.504      180      "CAP CER 1UF 10V X5R 0603"                                      
+C2         ANCAP0UF1006030412  TopLayer C0603-N          627.953       -1733.268     180      "0.10µF ±5% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"       
+C1         ANCAP110040340E0000 TopLayer C0603-N          330.709       -1572.835     180      "CAP CER 1UF 10V X5R 0603"                                      
